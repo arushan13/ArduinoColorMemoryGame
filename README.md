@@ -1,4 +1,4 @@
-#**Arduino Simon Says Game**  
+**Arduino Simon Says Game**  
 
 This project is an **Arduino-based memory game** inspired by the boardgame *Simon*. The game challenges players to memorize and replicate a randomly generated LED pattern. The system is programmed in **C++** and uses buttons, LEDs, and a Piezo buzzer for interactive gameplay.  
 
